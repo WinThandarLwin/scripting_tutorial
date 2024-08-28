@@ -1,14 +1,15 @@
 # Python と Selenium のセットアップ手順
 
 このドキュメントでは、Python をインストールし、Selenium と WebDriver を設定して、スクリプトを実行するための手順を説明します。
+[参考サイト](https://qiita.com/Chanmoro/items/9a3c86bb465c1cce738a)
 
 ## 目次
 
-- [Python のインストール](#pythonのインストール)
-- [Selenium のインストール](#seleniumのインストール)
-- [WebDriver のダウンロード](#webdriverのダウンロード)
-- [スクリプトの作成](#スクリプトの作成)
-- [スクリプトの実行](#スクリプトの実行)
+- Python のインストール
+- Selenium のインストール
+- WebDriver のダウンロード
+- スクリプトの作成
+- スクリプトの実行
 
 ## Python のインストール
 
